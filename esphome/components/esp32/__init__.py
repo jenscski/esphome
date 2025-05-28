@@ -307,6 +307,10 @@ ESP_IDF_PLATFORM_VERSION = cv.Version(53, 3, 13)
 
 # List based on https://registry.platformio.org/tools/platformio/framework-espidf/versions
 SUPPORTED_PLATFORMIO_ESP_IDF_5X = [
+    cv.Version(5, 4, 1),
+    cv.Version(5, 4, 0),
+    cv.Version(5, 3, 3),
+    cv.Version(5, 3, 2),
     cv.Version(5, 3, 1),
     cv.Version(5, 3, 0),
     cv.Version(5, 2, 2),
